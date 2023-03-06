@@ -45,7 +45,7 @@ public class task3 {
                 break;
             default:
                 System.out.println("Неверный оператор. Результат опрации не определен.");
-                System.out.println("В качестве оператора может быть только символы -, +, * или /");
+                System.out.println("В качестве оператора может быть только -, +, * или /");
                 break;
         }
         return result;
