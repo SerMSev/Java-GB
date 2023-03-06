@@ -33,4 +33,4 @@ public class task2 {
         System.out.println("Список простых чисел: " + primes);
     }
 }
-    
+ 
