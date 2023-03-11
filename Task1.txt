@@ -1,0 +1,20 @@
+мар. 11, 2023 11:15:51 PM Home_work_2.task1 babblSort
+INFO: [62, 97, 68, 52, 43, 23, 41, 77, 88, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 68, 62, 52, 43, 41, 77, 88, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 68, 62, 52, 43, 77, 88, 41, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 68, 62, 52, 77, 88, 43, 41, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 68, 62, 77, 88, 52, 43, 41, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 68, 77, 88, 62, 52, 43, 41, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 77, 88, 68, 62, 52, 43, 41, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 88, 77, 68, 62, 52, 43, 41, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 88, 77, 68, 62, 52, 43, 41, 23, 3]
+мар. 11, 2023 11:15:52 PM Home_work_2.task1 babblSort
+INFO: [97, 88, 77, 68, 62, 52, 43, 41, 23, 3]
